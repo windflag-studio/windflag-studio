@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @windflag-studio
-- 👀 I’m interested in C#.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in C#/Java.
+- 🌱 I’m currently learning Java.
 
 <!---
 windflag-studio/windflag-studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
