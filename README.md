@@ -4,13 +4,9 @@
 
 ## 我
 
-我是一名初三学生，平时喜欢编程，啥都会一点，但主要喜欢：
-- 语言：
   ![Static Badge](https://img.shields.io/badge/C%23-blue?style=flat&logo=dotnet&labelColor=gray)
   ![Static Badge](https://img.shields.io/badge/C%2B%2B-darkgreen?logo=cplusplus&labelColor=gray)
-- 也来点：
   ![Static Badge](https://img.shields.io/badge/Godot-darkyellow?logo=godotengine&labelColor=gray)
-- 系统也可以！：
   ![Static Badge](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=%23FCC624)
   ![Static Badge](https://img.shields.io/badge/Arch!!!-gray?style=flat&logo=archlinux&logoColor=%231793D1)(I use Arch btw.)
 
